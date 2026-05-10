@@ -1,0 +1,11 @@
+country,group,homicide_rate,admixture_status,source
+United States,Asian,1.2,unmixed_EAS,CDC WISQARS 2022
+United States,White,3.5,unmixed_EUR,CDC WISQARS 2022
+United States,Hispanic,7.5,mixed_EUR-AMR-AFR,CDC WISQARS 2022
+United States,Black,22.0,mixed_AFR-EUR,CDC WISQARS 2022
+South Africa,White,3.5,unmixed_EUR,Suffla et al. 2024
+South Africa,Black,24.2,unmixed_AFR,Suffla et al. 2024
+South Africa,Coloured,39.3,mixed_KHO-EUR-AFR-MAL,Suffla et al. 2024; Thomson 2004
+Brazil,Branco,13.5,less_mixed,Atlas da Violencia 2023
+Brazil,Pardo,34.2,mixed,Atlas da Violencia 2023
+Brazil,Preto,40.1,mixed_or_unmixed_AFR,Atlas da Violencia 2023
